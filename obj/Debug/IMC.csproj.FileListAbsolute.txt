@@ -1,0 +1,11 @@
+E:\Cast\Projetos\CSharp-Intermed\IMC\bin\Debug\IMC.exe.config
+E:\Cast\Projetos\CSharp-Intermed\IMC\bin\Debug\IMC.exe
+E:\Cast\Projetos\CSharp-Intermed\IMC\bin\Debug\IMC.pdb
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.Form1.resources
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.Properties.Resources.resources
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.exe
+E:\Cast\Projetos\CSharp-Intermed\IMC\obj\Debug\IMC.pdb
